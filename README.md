@@ -35,10 +35,6 @@ lien de composer :
 
 https://getcomposer.org
 
-lien de arcturus krew : 
+lien de arcturus Emu 3.0.0 + plugin : 
 
-https://git.krews.org/morningstar/Arcturus-Community/-/tree/3-0-0
-
-plugin custom wired : 
-
-https://git.krews.org/morningstar/archive/custom-wired
+https://mega.nz/folder/FaFVQKzZ#5sTtvQ7qtiRa1_vmLN-gJQ
