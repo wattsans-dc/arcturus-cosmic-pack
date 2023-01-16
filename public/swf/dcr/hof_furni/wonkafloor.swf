@@ -1,0 +1,728 @@
+<html><meta charset="utf-8"><meta http-equiv="X-WebKit-CSP" content="object-src 'none'; script-src 'none' 'unsafe-eval'"><body><table>http://habmoon.org/FlashIT/hof_furni/wonkafloor.swf<hr><pre>HTTP/1.1 200 OK
+Server: cloudflare-nginx
+Date: Mon, 25 Jun 2012 12:11:35 GMT
+Content-Type: application/x-shockwave-flash
+Content-Length: 11097
+Cache-Control: public, max-age=2592000
+Expires: Wed, 25 Jul 2012 12:11:35 GMT
+CF-Cache-Status: HIT
+Vary: Accept-Encoding
+Accept-Ranges: bytes
+</pre><hr><pre>00000000:  5e  01  00  00  03  08  00  00  10  ae  c2  2a  e1  21  2e  00  ^..........*.!..
+00000010:  88  17  c3  2a  e1  21  2e  00  1e  01  00  00  48  54  54  50  ...*.!......HTTP
+00000020:  2f  31  2e  31  20  32  30  30  20  4f  4b  00  53  65  72  76  /1.1 200 OK.Serv
+00000030:  65  72  3a  20  63  6c  6f  75  64  66  6c  61  72  65  2d  6e  er: cloudflare-n
+00000040:  67  69  6e  78  00  44  61  74  65  3a  20  4d  6f  6e  2c  20  ginx.Date: Mon, 
+00000050:  32  35  20  4a  75  6e  20  32  30  31  32  20  31  32  3a  31  25 Jun 2012 12:1
+00000060:  31  3a  33  35  20  47  4d  54  00  43  6f  6e  74  65  6e  74  1:35 GMT.Content
+00000070:  2d  54  79  70  65  3a  20  61  70  70  6c  69  63  61  74  69  -Type: applicati
+00000080:  6f  6e  2f  78  2d  73  68  6f  63  6b  77  61  76  65  2d  66  on/x-shockwave-f
+00000090:  6c  61  73  68  00  43  6f  6e  74  65  6e  74  2d  4c  65  6e  lash.Content-Len
+000000a0:  67  74  68  3a  20  31  31  30  39  37  00  43  61  63  68  65  gth: 11097.Cache
+000000b0:  2d  43  6f  6e  74  72  6f  6c  3a  20  70  75  62  6c  69  63  -Control: public
+000000c0:  2c  20  6d  61  78  2d  61  67  65  3d  32  35  39  32  30  30  , max-age=259200
+000000d0:  30  00  45  78  70  69  72  65  73  3a  20  57  65  64  2c  20  0.Expires: Wed, 
+000000e0:  32  35  20  4a  75  6c  20  32  30  31  32  20  31  32  3a  31  25 Jul 2012 12:1
+000000f0:  31  3a  33  35  20  47  4d  54  00  43  46  2d  43  61  63  68  1:35 GMT.CF-Cach
+00000100:  65  2d  53  74  61  74  75  73  3a  20  48  49  54  00  56  61  e-Status: HIT.Va
+00000110:  72  79  3a  20  41  63  63  65  70  74  2d  45  6e  63  6f  64  ry: Accept-Encod
+00000120:  69  6e  67  00  41  63  63  65  70  74  2d  52  61  6e  67  65  ing.Accept-Range
+00000130:  73  3a  20  62  79  74  65  73  00  00  00  00  1c  75  7f  de  s: bytes.....u..
+00000140:  67  1f  5e  3e  ea  80  b1  88  00  f0  37  0c  0d  00  00  00  g.^&gt;......7.....
+00000150:  31  37  33  2e  32  34  35  2e  36  30  2e  35  30  00  00  00  173.245.60.50...
+00000160:  50  00                                                          P.
+</pre><hr><pre>00000000:  46  57  53  09  59  2b  00  00  78  00  04  e2  00  00  0e  a6  FWS.Y+..x.......
+00000010:  00  00  18  01  00  44  11  19  00  00  00  7f  13  ca  01  00  .....D..........
+00000020:  00  3c  72  64  66  3a  52  44  46  20  78  6d  6c  6e  73  3a  .&lt;rdf:RDF xmlns:
+00000030:  72  64  66  3d  27  68  74  74  70  3a  2f  2f  77  77  77  2e  rdf=&#39;http://www.
+00000040:  77  33  2e  6f  72  67  2f  31  39  39  39  2f  30  32  2f  32  w3.org/1999/02/2
+00000050:  32  2d  72  64  66  2d  73  79  6e  74  61  78  2d  6e  73  23  2-rdf-syntax-ns#
+00000060:  27  3e  3c  72  64  66  3a  44  65  73  63  72  69  70  74  69  &#39;&gt;&lt;rdf:Descripti
+00000070:  6f  6e  20  72  64  66  3a  61  62  6f  75  74  3d  27  27  20  on rdf:about=&#39;&#39; 
+00000080:  78  6d  6c  6e  73  3a  64  63  3d  27  68  74  74  70  3a  2f  xmlns:dc=&#39;http:/
+00000090:  2f  70  75  72  6c  2e  6f  72  67  2f  64  63  2f  65  6c  65  /purl.org/dc/ele
+000000a0:  6d  65  6e  74  73  2f  31  2e  31  27  3e  3c  64  63  3a  66  ments/1.1&#39;&gt;&lt;dc:f
+000000b0:  6f  72  6d  61  74  3e  61  70  70  6c  69  63  61  74  69  6f  ormat&gt;applicatio
+000000c0:  6e  2f  78  2d  73  68  6f  63  6b  77  61  76  65  2d  66  6c  n/x-shockwave-fl
+000000d0:  61  73  68  3c  2f  64  63  3a  66  6f  72  6d  61  74  3e  3c  ash&lt;/dc:format&gt;&lt;
+000000e0:  64  63  3a  74  69  74  6c  65  3e  41  64  6f  62  65  20  46  dc:title&gt;Adobe F
+000000f0:  6c  65  78  20  33  20  41  70  70  6c  69  63  61  74  69  6f  lex 3 Applicatio
+00000100:  6e  3c  2f  64  63  3a  74  69  74  6c  65  3e  3c  64  63  3a  n&lt;/dc:title&gt;&lt;dc:
+00000110:  64  65  73  63  72  69  70  74  69  6f  6e  3e  68  74  74  70  description&gt;http
+00000120:  3a  2f  2f  77  77  77  2e  61  64  6f  62  65  2e  63  6f  6d  ://www.adobe.com
+00000130:  2f  70  72  6f  64  75  63  74  73  2f  66  6c  65  78  3c  2f  /products/flex&lt;/
+00000140:  64  63  3a  64  65  73  63  72  69  70  74  69  6f  6e  3e  3c  dc:description&gt;&lt;
+00000150:  64  63  3a  70  75  62  6c  69  73  68  65  72  3e  75  6e  6b  dc:publisher&gt;unk
+00000160:  6e  6f  77  6e  3c  2f  64  63  3a  70  75  62  6c  69  73  68  nown&lt;/dc:publish
+00000170:  65  72  3e  3c  64  63  3a  63  72  65  61  74  6f  72  3e  75  er&gt;&lt;dc:creator&gt;u
+00000180:  6e  6b  6e  6f  77  6e  3c  2f  64  63  3a  63  72  65  61  74  nknown&lt;/dc:creat
+00000190:  6f  72  3e  3c  64  63  3a  6c  61  6e  67  75  61  67  65  3e  or&gt;&lt;dc:language&gt;
+000001a0:  45  4e  3c  2f  64  63  3a  6c  61  6e  67  75  61  67  65  3e  EN&lt;/dc:language&gt;
+000001b0:  3c  64  63  3a  64  61  74  65  3e  4a  75  6c  20  37  2c  20  &lt;dc:date&gt;Jul 7, 
+000001c0:  32  30  31  31  3c  2f  64  63  3a  64  61  74  65  3e  3c  2f  2011&lt;/dc:date&gt;&lt;/
+000001d0:  72  64  66  3a  44  65  73  63  72  69  70  74  69  6f  6e  3e  rdf:Description&gt;
+000001e0:  3c  2f  72  64  66  3a  52  44  46  3e  00  44  10  e8  03  3c  &lt;/rdf:RDF&gt;.D...&lt;
+000001f0:  00  43  02  86  9c  a7  5a  0a  03  00  00  00  06  00  00  00  .C....Z.........
+00000200:  03  00  dd  01  00  00  00  00  00  00  16  f7  da  03  31  01  ..............1.
+00000210:  00  00  cb  0a  77  6f  6e  6b  61  66  6c  6f  6f  72  00  3f  ....wonkafloor.?
+00000220:  09  fc  01  00  00  01  00  05  80  00  41  00  78  da  ed  d9  ..........A.x...
+00000230:  cb  6d  c3  30  10  84  61  55  90  5b  00  97  90  36  82  9c  .m.0..aU.[...6..
+00000240:  d2  8b  2b  48  f3  09  22  58  17  07  0a  29  89  8f  d9  9d  ..+H..&quot;X...)....
+00000250:  df  80  0e  36  7c  19  7d  63  ca  4b  2e  8b  ef  eb  fb  f5  ...6|.}c.K......
+00000260:  fe  fe  7b  2d  bc  bc  dc  6f  5f  9f  eb  f5  f0  df  de  73  ..{-...o_......s
+00000270:  67  4c  dc  77  fc  e9  41  ee  75  be  d6  9f  e7  42  32  f7  gL.w..A.u....B2.
+00000280:  93  fe  f4  20  f0  3a  ff  6c  7f  c1  7f  fb  0e  77  36  d0  ... .:.l.....w6.
+00000290:  3a  df  c1  9f  f5  20  d0  3a  df  d1  9f  1e  88  ce  71  83  :.... .:......q.
+000002a0:  fd  99  17  c4  e6  b8  49  fe  f4  60  92  bb  98  3f  3d  18  ......I..`...?=.
+000002b0:  ec  2e  ea  4f  0f  06  b9  8b  fb  d3  83  c6  fb  75  41  fd  ...O.........uA.
+000002c0:  99  17  1a  ed  d7  05  f7  a7  07  95  ee  c9  fd  e9  41  c1  ..............A.
+000002d0:  dd  c4  df  b5  07  45  77  33  7f  97  1e  54  bb  9b  fa  67  .....Ew3...T...g
+000002e0:  ed  c1  61  77  73  ff  2c  3d  b8  9a  df  dd  3f  ea  fe  41  ..aws.,=....?..A
+000002f0:  eb  fc  ee  fe  51  7a  d0  3b  bf  bb  bf  6a  0f  46  e7  77  ....Qz.;...j.F.w
+00000300:  f7  57  e9  c1  ec  fc  ee  fe  b3  7a  a0  96  df  dd  7f  d4  .W.......z......
+00000310:  bc  a0  9e  df  dd  bf  57  0f  a2  e5  77  f7  df  3e  6b  fa  ......W...w..&gt;k.
+00000320:  7b  c7  3f  6c  fe  26  fb  36  f8  87  cf  7f  69  df  06  ff  {.?l.&amp;.6....i...
+00000330:  34  f9  4f  ed  db  e0  9f  2e  3f  fe  f8  af  fe  2f  1f  6f  4.O.....?..../.o
+00000340:  eb  85  bf  87  ff  c3  fb  cf  73  e0  b9  07  f8  e7  ca  bf  ........s.......
+00000350:  e3  be  db  03  fc  73  e4  af  74  ff  b7  07  f8  c7  cb  7f  .....s..t.......
+00000360:  d2  bd  6a  3d  c0  5f  37  7f  23  f7  62  0f  f0  d7  ca  df  ..j=._7.#.b.....
+00000370:  c9  bd  f8  3f  11  ff  b9  f9  07  b9  9f  ee  01  fe  7d  f2  ...?..........}.
+00000380:  4f  72  3f  dc  03  fc  db  e6  17  71  af  ee  01  fe  6d  f2  Or?......q....m.
+00000390:  8b  ba  1f  da  47  c2  ff  78  fe  20  ee  d5  73  23  fe  75  ....G..x. ..s#.u
+000003a0:  57  50  f7  66  3d  70  f5  4f  e2  7e  b9  07  6e  fe  49  dd  WP.f=p.O.~..n.I.
+000003b0:  4f  f7  c0  c5  df  c4  fd  70  0f  b2  fb  9b  ba  77  3f  5f  O......p.....w?_
+000003c0:  50  f7  c7  bd  ef  f9  82  aa  3f  ee  63  ce  17  d4  fc  71  P.......?.c....q
+000003d0:  1f  7b  be  a0  e2  8f  fb  9c  f3  85  d9  fe  b8  cf  3d  5f  .{............=_
+000003e0:  98  e5  8f  bb  c6  f9  c2  68  7f  dc  f5  e6  c6  11  fe  b8  .......h........
+000003f0:  eb  ce  8d  3d  fd  71  d7  7f  2e  f4  f0  c7  3d  d7  7e  62  ...=.q......=.~b
+00000400:  ad  3f  ee  39  f7  13  4b  9f  e3  ee  31  37  32  c7  79  cf  .?.9..K...172.y.
+00000410:  8d  b8  7b  3f  17  70  b7  ee  81  f3  3d  f8  01  aa  9b  87  ..{?.p....=.....
+00000420:  70  3f  09  fa  01  00  00  02  00  05  80  00  41  00  78  da  p?..........A.x.
+00000430:  ed  d9  4b  4e  c3  40  10  84  61  9f  84  2b  20  05  71  10  ..KN.@..a..+ .q.
+00000440:  d8  86  fb  5f  03  84  15  6f  82  cc  8c  ed  79  54  77  fd  ..._...o....yTw.
+00000450:  91  bc  48  94  4d  f9  ab  8c  d3  33  cb  e2  fb  fa  fe  78  ..H.M....3.....x
+00000460:  fd  fc  bd  16  5e  5e  ee  f7  f7  af  f5  7a  f8  6f  ef  b9  ....^^.....z.o..
+00000470:  33  26  ee  3b  fe  f4  20  f7  3a  5f  eb  cf  73  21  99  fb  3&amp;.;.. .:_..s!..
+00000480:  49  7f  7a  10  78  9d  7f  b6  bf  e0  bf  7d  87  3b  1b  68  I.z.x......}.;.h
+00000490:  9d  ef  e0  cf  7a  10  68  9d  ef  e8  4f  0f  44  e7  b8  c1  ....z.h...O.D...
+000004a0:  fe  cc  0b  62  73  dc  24  7f  7a  30  c9  5d  cc  9f  1e  0c  ...bs.$.z0.]....
+000004b0:  76  17  f5  a7  07  83  dc  c5  fd  e9  41  e3  fd  ba  a0  fe  v.........A.....
+000004c0:  cc  0b  8d  f6  eb  82  fb  d3  83  4a  f7  e4  fe  f4  a0  e0  .........J......
+000004d0:  6e  e2  ef  da  83  a2  bb  99  bf  4b  0f  aa  dd  4d  fd  b3  n........K...M..
+000004e0:  f6  e0  b0  bb  b9  7f  96  1e  5c  cd  ef  ee  1f  75  ff  a0  ........\....u..
+000004f0:  75  7e  77  ff  28  3d  e8  9d  df  dd  5f  b5  07  a3  f3  bb  u~w.(=...._.....
+00000500:  fb  ab  f4  60  76  7e  77  ff  59  3d  50  cb  ef  ee  3f  6a  ...`v~w.Y=P...?j
+00000510:  5e  50  cf  ef  ee  df  ab  07  d1  f2  bb  fb  6f  9f  35  fd  ^P..........o.5.
+00000520:  bd  e3  1f  36  7f  93  7d  1b  fc  c3  e7  bf  b4  6f  83  7f  ...6..}......o..
+00000530:  9a  fc  a7  f6  6d  f0  4f  97  1f  7f  fc  57  ff  db  cb  db  ....m.O....W....
+00000540:  7a  e1  ef  e1  ff  f0  fe  f3  1c  78  ee  01  fe  b9  f2  ef  z........x......
+00000550:  b8  ef  f6  00  ff  1c  f9  2b  dd  ff  ed  01  fe  f1  f2  9f  .......+........
+00000560:  74  af  5a  0f  f0  d7  cd  df  c8  bd  d8  03  fc  b5  f2  77  t.Z............w
+00000570:  72  2f  fe  4f  c4  7f  6e  fe  41  ee  a7  7b  80  7f  9f  fc  r/.O..n.A..{....
+00000580:  93  dc  0f  f7  00  ff  b6  f9  45  dc  ab  7b  80  7f  9b  fc  ........E..{....
+00000590:  a2  ee  87  f6  91  f0  3f  9e  3f  88  7b  f5  dc  88  7f  dd  ......?.?.{.....
+000005a0:  15  d4  bd  59  0f  5c  fd  93  b8  5f  ee  81  9b  7f  52  f7  ...Y.\..._....R.
+000005b0:  d3  3d  70  f1  37  71  3f  dc  83  ec  fe  a6  ee  dd  cf  17  .=p.7q?.........
+000005c0:  d4  fd  71  ef  7b  be  a0  ea  8f  fb  98  f3  05  35  7f  dc  ..q.{........5..
+000005d0:  c7  9e  2f  a8  f8  e3  3e  e7  7c  61  b6  3f  ee  73  cf  17  ../...&gt;.|a.?.s..
+000005e0:  66  f9  e3  ae  71  be  30  da  1f  77  bd  b9  71  84  3f  ee  f...q.0..w..q.?.
+000005f0:  ba  73  63  4f  7f  dc  f5  9f  0b  3d  fc  71  cf  b5  9f  58  .scO.....=.q...X
+00000600:  eb  8f  7b  ce  fd  c4  d2  e7  b8  7b  cc  8d  cc  71  de  73  ..{......{...q.s
+00000610:  23  ee  de  cf  05  dc  ad  7b  e0  7c  0f  7e  00  a0  7c  93  #......{.|.~..|.
+00000620:  f7  3f  09  bf  00  00  00  03  00  05  40  00  21  00  78  da  .?........@.!.x.
+00000630:  ed  99  4b  0e  80  20  0c  44  b9  84  89  d7  71  e9  5d  3c  ..K.. .D....q.]&lt;
+00000640:  81  97  f7  43  c2  42  12  23  60  4b  4b  3b  24  5d  62  fb  ...C.B.#`KK;$]b.
+00000650:  26  66  80  36  04  2c  a9  75  4c  db  72  87  57  ee  3c  bc  &amp;f.6.,.uL.r.W.&lt;.
+00000660:  72  5b  d7  21  72  cd  fb  5a  ca  6f  45  87  07  73  03  7f  r[.!r..Z.oE..s..
+00000670:  dc  73  c5  90  dc  29  08  f8  47  d1  21  af  97  9a  3f  7d  .s...)..G.!...?}
+00000680:  43  ad  af  75  e2  d7  e2  0f  55  f5  32  f0  4b  e9  d0  54  C..u....U.2.K..T
+00000690:  2f  23  7f  2f  1d  3e  19  84  f9  b9  7c  b2  36  bf  34  3f  /#./.&gt;....|.6.4?
+000006a0:  95  0e  7f  f3  4b  f3  b7  ea  40  9a  5f  01  7f  a9  3f  b0  ....K...@._...?.
+000006b0:  e4  57  c4  ff  a6  03  6b  7e  85  fc  b9  0e  de  f9  bd  ff  .W....k~........
+000006c0:  ff  f0  3f  9c  7f  b8  ff  e0  fe  8b  f7  0f  de  bf  e8  7f  ..?.............
+000006d0:  a0  ff  85  fe  27  fa  df  98  7f  60  fe  85  f9  a7  fd  f9  ....&#39;....`......
+000006e0:  f7  09  2e  db  26  fc  ff  15  0b  01  00  00  04  00  00  00  ....&amp;...........
+000006f0:  00  00  3c  3f  78  6d  6c  20  76  65  72  73  69  6f  6e  3d  ..&lt;?xml version=
+00000700:  22  31  2e  30  22  20  65  6e  63  6f  64  69  6e  67  3d  22  &quot;1.0&quot; encoding=&quot;
+00000710:  49  53  4f  2d  38  38  35  39  2d  31  22  20  3f  3e  0d  0a  ISO-8859-1&quot; ?&gt;..
+00000720:  3c  6f  62  6a  65  63  74  44  61  74  61  20  74  79  70  65  &lt;objectData type
+00000730:  3d  22  77  6f  6e  6b  61  66  6c  6f  6f  72  22  3e  0d  0a  =&quot;wonkafloor&quot;&gt;..
+00000740:  20  20  20  3c  6d  6f  64  65  6c  3e  0d  0a  20  20  20  20     &lt;model&gt;..    
+00000750:  20  20  3c  64  69  6d  65  6e  73  69  6f  6e  73  20  78  3d    &lt;dimensions x=
+00000760:  22  32  22  20  79  3d  22  32  22  20  7a  3d  22  30  2e  30  &quot;2&quot; y=&quot;2&quot; z=&quot;0.0
+00000770:  22  2f  3e  0d  0a  20  20  20  20  20  20  3c  64  69  72  65  &quot;/&gt;..      &lt;dire
+00000780:  63  74  69  6f  6e  73  3e  0d  0a  20  20  20  20  20  20  20  ctions&gt;..       
+00000790:  20  20  3c  64  69  72  65  63  74  69  6f  6e  20  69  64  3d    &lt;direction id=
+000007a0:  22  30  22  2f  3e  0d  0a  20  20  20  20  20  20  20  20  20  &quot;0&quot;/&gt;..         
+000007b0:  3c  64  69  72  65  63  74  69  6f  6e  20  69  64  3d  22  39  &lt;direction id=&quot;9
+000007c0:  30  22  2f  3e  0d  0a  20  20  20  20  20  20  3c  2f  64  69  0&quot;/&gt;..      &lt;/di
+000007d0:  72  65  63  74  69  6f  6e  73  3e  0d  0a  20  20  20  3c  2f  rections&gt;..   &lt;/
+000007e0:  6d  6f  64  65  6c  3e  0d  0a  3c  2f  6f  62  6a  65  63  74  model&gt;..&lt;/object
+000007f0:  44  61  74  61  3e  0d  0a  3f  09  be  00  00  00  05  00  05  Data&gt;..?........
+00000800:  40  00  21  00  78  da  ed  99  4b  0e  80  20  0c  44  b9  91  @.!.x...K.. .D..
+00000810:  2b  0f  a2  5b  bd  ff  35  fc  90  b0  90  c4  08  d8  d2  d2  +..[..5.........
+00000820:  0e  49  97  d8  be  89  19  a0  0d  01  4b  6a  1d  cb  b4  de  .I........Kj....
+00000830:  e1  95  3b  0f  af  dc  d6  75  88  5c  db  bc  97  f2  5b  d1  ..;....u.\....[.
+00000840:  e1  c1  dc  c0  1f  f7  5c  31  24  77  0a  02  fe  51  74  c8  ......\1$w...Qt.
+00000850:  eb  a5  e6  4f  df  50  eb  6b  9d  f8  b5  f8  43  55  bd  0c  ...O.P.k....CU..
+00000860:  fc  52  3a  34  d5  cb  c8  df  4b  87  4f  06  61  7e  2e  9f  .R:4....K.O.a~..
+00000870:  ac  cd  2f  cd  4f  a5  c3  df  fc  d2  fc  ad  3a  90  e6  57  ../.O.......:..W
+00000880:  c0  5f  ea  0f  2c  f9  15  f1  bf  e9  c0  9a  5f  21  7f  ae  ._..,......._!..
+00000890:  83  77  7e  ef  ff  3f  fc  0f  e7  1f  ee  3f  b8  ff  e2  fd  .w~..?.....?....
+000008a0:  83  f7  2f  fa  1f  e8  7f  a1  ff  89  fe  37  e6  1f  98  7f  ../........7....
+000008b0:  61  fe  69  7f  fe  7d  02  3e  ca  68  5e  ff  15  91  00  00  a.i..}.&gt;.h^.....
+000008c0:  00  06  00  00  00  00  00  3c  3f  78  6d  6c  20  76  65  72  .......&lt;?xml ver
+000008d0:  73  69  6f  6e  3d  22  31  2e  30  22  20  65  6e  63  6f  64  sion=&quot;1.0&quot; encod
+000008e0:  69  6e  67  3d  22  49  53  4f  2d  38  38  35  39  2d  31  22  ing=&quot;ISO-8859-1&quot;
+000008f0:  20  3f  3e  0d  0a  3c  6f  62  6a  65  63  74  20  74  79  70   ?&gt;..&lt;object typ
+00000900:  65  3d  22  77  6f  6e  6b  61  66  6c  6f  6f  72  22  20  76  e=&quot;wonkafloor&quot; v
+00000910:  69  73  75  61  6c  69  7a  61  74  69  6f  6e  3d  22  66  75  isualization=&quot;fu
+00000920:  72  6e  69  74  75  72  65  5f  61  6e  69  6d  61  74  65  64  rniture_animated
+00000930:  22  20  6c  6f  67  69  63  3d  22  66  75  72  6e  69  74  75  &quot; logic=&quot;furnitu
+00000940:  72  65  5f  6d  75  6c  74  69  73  74  61  74  65  22  2f  3e  re_multistate&quot;/&gt;
+00000950:  0d  0a  ff  15  b5  06  00  00  07  00  00  00  00  00  3c  3f  ..............&lt;?
+00000960:  78  6d  6c  20  76  65  72  73  69  6f  6e  3d  22  31  2e  30  xml version=&quot;1.0
+00000970:  22  20  65  6e  63  6f  64  69  6e  67  3d  22  49  53  4f  2d  &quot; encoding=&quot;ISO-
+00000980:  38  38  35  39  2d  31  22  20  3f  3e  0d  0a  3c  76  69  73  8859-1&quot; ?&gt;..&lt;vis
+00000990:  75  61  6c  69  7a  61  74  69  6f  6e  44  61  74  61  20  74  ualizationData t
+000009a0:  79  70  65  3d  22  77  6f  6e  6b  61  66  6c  6f  6f  72  22  ype=&quot;wonkafloor&quot;
+000009b0:  3e  0d  0a  20  20  20  3c  76  69  73  75  61  6c  69  7a  61  &gt;..   &lt;visualiza
+000009c0:  74  69  6f  6e  20  73  69  7a  65  3d  22  33  32  22  20  6c  tion size=&quot;32&quot; l
+000009d0:  61  79  65  72  43  6f  75  6e  74  3d  22  31  22  20  61  6e  ayerCount=&quot;1&quot; an
+000009e0:  67  6c  65  3d  22  34  35  22  3e  0d  0a  20  20  20  20  20  gle=&quot;45&quot;&gt;..     
+000009f0:  20  3c  6c  61  79  65  72  73  3e  0d  0a  20  20  20  20  20   &lt;layers&gt;..     
+00000a00:  20  20  20  20  3c  6c  61  79  65  72  20  69  64  3d  22  30      &lt;layer id=&quot;0
+00000a10:  22  20  7a  3d  22  2d  35  30  30  30  22  2f  3e  0d  0a  20  &quot; z=&quot;-5000&quot;/&gt;.. 
+00000a20:  20  20  20  20  20  3c  2f  6c  61  79  65  72  73  3e  0d  0a       &lt;/layers&gt;..
+00000a30:  20  20  20  20  20  20  3c  64  69  72  65  63  74  69  6f  6e        &lt;direction
+00000a40:  73  3e  0d  0a  20  20  20  20  20  20  20  20  20  3c  64  69  s&gt;..         &lt;di
+00000a50:  72  65  63  74  69  6f  6e  20  69  64  3d  22  30  22  2f  3e  rection id=&quot;0&quot;/&gt;
+00000a60:  0d  0a  20  20  20  20  20  20  20  20  20  3c  64  69  72  65  ..         &lt;dire
+00000a70:  63  74  69  6f  6e  20  69  64  3d  22  32  22  2f  3e  0d  0a  ction id=&quot;2&quot;/&gt;..
+00000a80:  20  20  20  20  20  20  3c  2f  64  69  72  65  63  74  69  6f        &lt;/directio
+00000a90:  6e  73  3e  0d  0a  20  20  20  20  20  20  3c  61  6e  69  6d  ns&gt;..      &lt;anim
+00000aa0:  61  74  69  6f  6e  73  3e  0d  0a  20  20  20  20  20  20  20  ations&gt;..       
+00000ab0:  20  20  3c  61  6e  69  6d  61  74  69  6f  6e  20  69  64  3d    &lt;animation id=
+00000ac0:  22  30  22  3e  0d  0a  20  20  20  20  20  20  20  20  20  20  &quot;0&quot;&gt;..          
+00000ad0:  20  20  3c  61  6e  69  6d  61  74  69  6f  6e  4c  61  79  65    &lt;animationLaye
+00000ae0:  72  20  69  64  3d  22  30  22  3e  0d  0a  20  20  20  20  20  r id=&quot;0&quot;&gt;..     
+00000af0:  20  20  20  20  20  20  20  20  20  20  3c  66  72  61  6d  65            &lt;frame
+00000b00:  53  65  71  75  65  6e  63  65  3e  0d  0a  20  20  20  20  20  Sequence&gt;..     
+00000b10:  20  20  20  20  20  20  20  20  20  20  20  20  20  3c  66  72               &lt;fr
+00000b20:  61  6d  65  20  69  64  3d  22  30  22  2f  3e  0d  0a  20  20  ame id=&quot;0&quot;/&gt;..  
+00000b30:  20  20  20  20  20  20  20  20  20  20  20  20  20  3c  2f  66               &lt;/f
+00000b40:  72  61  6d  65  53  65  71  75  65  6e  63  65  3e  0d  0a  20  rameSequence&gt;.. 
+00000b50:  20  20  20  20  20  20  20  20  20  20  20  3c  2f  61  6e  69             &lt;/ani
+00000b60:  6d  61  74  69  6f  6e  4c  61  79  65  72  3e  0d  0a  20  20  mationLayer&gt;..  
+00000b70:  20  20  20  20  20  20  20  3c  2f  61  6e  69  6d  61  74  69         &lt;/animati
+00000b80:  6f  6e  3e  0d  0a  20  20  20  20  20  20  20  20  20  3c  61  on&gt;..         &lt;a
+00000b90:  6e  69  6d  61  74  69  6f  6e  20  69  64  3d  22  31  22  3e  nimation id=&quot;1&quot;&gt;
+00000ba0:  0d  0a  20  20  20  20  20  20  20  20  20  20  20  20  3c  61  ..            &lt;a
+00000bb0:  6e  69  6d  61  74  69  6f  6e  4c  61  79  65  72  20  69  64  nimationLayer id
+00000bc0:  3d  22  30  22  3e  0d  0a  20  20  20  20  20  20  20  20  20  =&quot;0&quot;&gt;..         
+00000bd0:  20  20  20  20  20  20  3c  66  72  61  6d  65  53  65  71  75        &lt;frameSequ
+00000be0:  65  6e  63  65  3e  0d  0a  20  20  20  20  20  20  20  20  20  ence&gt;..         
+00000bf0:  20  20  20  20  20  20  20  20  20  3c  66  72  61  6d  65  20           &lt;frame 
+00000c00:  69  64  3d  22  31  22  2f  3e  0d  0a  20  20  20  20  20  20  id=&quot;1&quot;/&gt;..      
+00000c10:  20  20  20  20  20  20  20  20  20  3c  2f  66  72  61  6d  65           &lt;/frame
+00000c20:  53  65  71  75  65  6e  63  65  3e  0d  0a  20  20  20  20  20  Sequence&gt;..     
+00000c30:  20  20  20  20  20  20  20  3c  2f  61  6e  69  6d  61  74  69         &lt;/animati
+00000c40:  6f  6e  4c  61  79  65  72  3e  0d  0a  20  20  20  20  20  20  onLayer&gt;..      
+00000c50:  20  20  20  3c  2f  61  6e  69  6d  61  74  69  6f  6e  3e  0d     &lt;/animation&gt;.
+00000c60:  0a  20  20  20  20  20  20  3c  2f  61  6e  69  6d  61  74  69  .      &lt;/animati
+00000c70:  6f  6e  73  3e  0d  0a  20  20  20  3c  2f  76  69  73  75  61  ons&gt;..   &lt;/visua
+00000c80:  6c  69  7a  61  74  69  6f  6e  3e  0d  0a  20  20  20  3c  76  lization&gt;..   &lt;v
+00000c90:  69  73  75  61  6c  69  7a  61  74  69  6f  6e  20  73  69  7a  isualization siz
+00000ca0:  65  3d  22  36  34  22  20  6c  61  79  65  72  43  6f  75  6e  e=&quot;64&quot; layerCoun
+00000cb0:  74  3d  22  31  22  20  61  6e  67  6c  65  3d  22  34  35  22  t=&quot;1&quot; angle=&quot;45&quot;
+00000cc0:  3e  0d  0a  20  20  20  20  20  20  3c  6c  61  79  65  72  73  &gt;..      &lt;layers
+00000cd0:  3e  0d  0a  20  20  20  20  20  20  20  20  20  3c  6c  61  79  &gt;..         &lt;lay
+00000ce0:  65  72  20  69  64  3d  22  30  22  20  7a  3d  22  2d  35  30  er id=&quot;0&quot; z=&quot;-50
+00000cf0:  30  30  22  2f  3e  0d  0a  20  20  20  20  20  20  3c  2f  6c  00&quot;/&gt;..      &lt;/l
+00000d00:  61  79  65  72  73  3e  0d  0a  20  20  20  20  20  20  3c  64  ayers&gt;..      &lt;d
+00000d10:  69  72  65  63  74  69  6f  6e  73  3e  0d  0a  20  20  20  20  irections&gt;..    
+00000d20:  20  20  20  20  20  3c  64  69  72  65  63  74  69  6f  6e  20       &lt;direction 
+00000d30:  69  64  3d  22  30  22  2f  3e  0d  0a  20  20  20  20  20  20  id=&quot;0&quot;/&gt;..      
+00000d40:  20  20  20  3c  64  69  72  65  63  74  69  6f  6e  20  69  64     &lt;direction id
+00000d50:  3d  22  32  22  2f  3e  0d  0a  20  20  20  20  20  20  3c  2f  =&quot;2&quot;/&gt;..      &lt;/
+00000d60:  64  69  72  65  63  74  69  6f  6e  73  3e  0d  0a  20  20  20  directions&gt;..   
+00000d70:  20  20  20  3c  61  6e  69  6d  61  74  69  6f  6e  73  3e  0d     &lt;animations&gt;.
+00000d80:  0a  20  20  20  20  20  20  20  20  20  3c  61  6e  69  6d  61  .         &lt;anima
+00000d90:  74  69  6f  6e  20  69  64  3d  22  30  22  3e  0d  0a  20  20  tion id=&quot;0&quot;&gt;..  
+00000da0:  20  20  20  20  20  20  20  20  20  20  3c  61  6e  69  6d  61            &lt;anima
+00000db0:  74  69  6f  6e  4c  61  79  65  72  20  69  64  3d  22  30  22  tionLayer id=&quot;0&quot;
+00000dc0:  3e  0d  0a  20  20  20  20  20  20  20  20  20  20  20  20  20  &gt;..             
+00000dd0:  20  20  3c  66  72  61  6d  65  53  65  71  75  65  6e  63  65    &lt;frameSequence
+00000de0:  3e  0d  0a  20  20  20  20  20  20  20  20  20  20  20  20  20  &gt;..             
+00000df0:  20  20  20  20  20  3c  66  72  61  6d  65  20  69  64  3d  22       &lt;frame id=&quot;
+00000e00:  30  22  2f  3e  0d  0a  20  20  20  20  20  20  20  20  20  20  0&quot;/&gt;..          
+00000e10:  20  20  20  20  20  3c  2f  66  72  61  6d  65  53  65  71  75       &lt;/frameSequ
+00000e20:  65  6e  63  65  3e  0d  0a  20  20  20  20  20  20  20  20  20  ence&gt;..         
+00000e30:  20  20  20  3c  2f  61  6e  69  6d  61  74  69  6f  6e  4c  61     &lt;/animationLa
+00000e40:  79  65  72  3e  0d  0a  20  20  20  20  20  20  20  20  20  3c  yer&gt;..         &lt;
+00000e50:  2f  61  6e  69  6d  61  74  69  6f  6e  3e  0d  0a  20  20  20  /animation&gt;..   
+00000e60:  20  20  20  20  20  20  3c  61  6e  69  6d  61  74  69  6f  6e        &lt;animation
+00000e70:  20  69  64  3d  22  31  22  3e  0d  0a  20  20  20  20  20  20   id=&quot;1&quot;&gt;..      
+00000e80:  20  20  20  20  20  20  3c  61  6e  69  6d  61  74  69  6f  6e        &lt;animation
+00000e90:  4c  61  79  65  72  20  69  64  3d  22  30  22  3e  0d  0a  20  Layer id=&quot;0&quot;&gt;.. 
+00000ea0:  20  20  20  20  20  20  20  20  20  20  20  20  20  20  3c  66                &lt;f
+00000eb0:  72  61  6d  65  53  65  71  75  65  6e  63  65  3e  0d  0a  20  rameSequence&gt;.. 
+00000ec0:  20  20  20  20  20  20  20  20  20  20  20  20  20  20  20  20                  
+00000ed0:  20  3c  66  72  61  6d  65  20  69  64  3d  22  31  22  2f  3e   &lt;frame id=&quot;1&quot;/&gt;
+00000ee0:  0d  0a  20  20  20  20  20  20  20  20  20  20  20  20  20  20  ..              
+00000ef0:  20  3c  2f  66  72  61  6d  65  53  65  71  75  65  6e  63  65   &lt;/frameSequence
+00000f00:  3e  0d  0a  20  20  20  20  20  20  20  20  20  20  20  20  3c  &gt;..            &lt;
+00000f10:  2f  61  6e  69  6d  61  74  69  6f  6e  4c  61  79  65  72  3e  /animationLayer&gt;
+00000f20:  0d  0a  20  20  20  20  20  20  20  20  20  3c  2f  61  6e  69  ..         &lt;/ani
+00000f30:  6d  61  74  69  6f  6e  3e  0d  0a  20  20  20  20  20  20  3c  mation&gt;..      &lt;
+00000f40:  2f  61  6e  69  6d  61  74  69  6f  6e  73  3e  0d  0a  20  20  /animations&gt;..  
+00000f50:  20  3c  2f  76  69  73  75  61  6c  69  7a  61  74  69  6f  6e   &lt;/visualization
+00000f60:  3e  0d  0a  20  20  20  3c  76  69  73  75  61  6c  69  7a  61  &gt;..   &lt;visualiza
+00000f70:  74  69  6f  6e  20  73  69  7a  65  3d  22  31  22  20  6c  61  tion size=&quot;1&quot; la
+00000f80:  79  65  72  43  6f  75  6e  74  3d  22  31  22  20  61  6e  67  yerCount=&quot;1&quot; ang
+00000f90:  6c  65  3d  22  33  36  30  22  3e  0d  0a  20  20  20  20  20  le=&quot;360&quot;&gt;..     
+00000fa0:  20  3c  64  69  72  65  63  74  69  6f  6e  73  3e  0d  0a  20   &lt;directions&gt;.. 
+00000fb0:  20  20  20  20  20  20  20  20  3c  64  69  72  65  63  74  69          &lt;directi
+00000fc0:  6f  6e  20  69  64  3d  22  30  22  2f  3e  0d  0a  20  20  20  on id=&quot;0&quot;/&gt;..   
+00000fd0:  20  20  20  3c  2f  64  69  72  65  63  74  69  6f  6e  73  3e     &lt;/directions&gt;
+00000fe0:  0d  0a  20  20  20  3c  2f  76  69  73  75  61  6c  69  7a  61  ..   &lt;/visualiza
+00000ff0:  74  69  6f  6e  3e  0d  0a  3c  2f  76  69  73  75  61  6c  69  tion&gt;..&lt;/visuali
+00001000:  7a  61  74  69  6f  6e  44  61  74  61  3e  0d  0a  3f  09  a1  zationData&gt;..?..
+00001010:  00  00  00  08  00  05  20  00  11  00  78  da  63  60  20  1f  ...... ...x.c` .
+00001020:  fc  97  a8  f2  fc  1f  6d  1a  c3  40  67  00  b6  57  34  c7  ......m..@g..W4.
+00001030:  11  66  ff  ff  40  fd  20  7a  b8  03  6e  27  0e  fb  61  6c  .f..@. z..n&#39;..al
+00001040:  9a  d8  0b  c3  44  d8  0f  c3  54  f3  2f  99  f6  93  1b  1e  ....D...T./.....
+00001050:  18  76  50  68  3f  4c  8e  e8  70  a6  91  fd  b8  e2  05  c3  .vPh?L..p.......
+00001060:  1e  1a  db  8f  1c  2f  ff  f9  9c  35  06  ca  fe  ff  46  72  ...../...5....Fr
+00001070:  c6  70  37  c0  dc  41  0f  fb  81  f6  c2  ec  46  89  07  98  .p7..A......F...
+00001080:  3b  68  65  3f  0e  7b  71  ba  83  5a  f6  13  69  2f  5e  77  ;he?.{q..Z..i/^w
+00001090:  90  63  3f  99  f6  12  0c  0f  42  f6  53  c9  5e  bc  e9  03  .c?.....B.S.^...
+000010a0:  9b  fd  34  b2  17  af  3b  e8  68  2f  56  77  50  68  2f  00  ..4...;.h/VwPh/.
+000010b0:  f4  72  05  7f  ff  15  f2  02  00  00  09  00  00  00  00  00  .r..............
+000010c0:  3c  3f  78  6d  6c  20  76  65  72  73  69  6f  6e  3d  22  31  &lt;?xml version=&quot;1
+000010d0:  2e  30  22  20  65  6e  63  6f  64  69  6e  67  3d  22  49  53  .0&quot; encoding=&quot;IS
+000010e0:  4f  2d  38  38  35  39  2d  31  22  20  3f  3e  0d  0a  3c  6d  O-8859-1&quot; ?&gt;..&lt;m
+000010f0:  61  6e  69  66  65  73  74  3e  0d  0a  20  20  20  3c  6c  69  anifest&gt;..   &lt;li
+00001100:  62  72  61  72  79  20  6e  61  6d  65  3d  22  77  6f  6e  6b  brary name=&quot;wonk
+00001110:  61  66  6c  6f  6f  72  22  20  76  65  72  73  69  6f  6e  3d  afloor&quot; version=
+00001120:  22  30  2e  31  22  3e  0d  0a  20  20  20  20  20  20  3c  61  &quot;0.1&quot;&gt;..      &lt;a
+00001130:  73  73  65  74  73  3e  0d  0a  20  20  20  20  20  20  20  20  ssets&gt;..        
+00001140:  20  3c  61  73  73  65  74  20  6e  61  6d  65  3d  22  69  6e   &lt;asset name=&quot;in
+00001150:  64  65  78  22  20  6d  69  6d  65  54  79  70  65  3d  22  74  dex&quot; mimeType=&quot;t
+00001160:  65  78  74  2f  78  6d  6c  22  2f  3e  0d  0a  20  20  20  20  ext/xml&quot;/&gt;..    
+00001170:  20  20  20  20  20  3c  61  73  73  65  74  20  6e  61  6d  65       &lt;asset name
+00001180:  3d  22  77  6f  6e  6b  61  66  6c  6f  6f  72  5f  76  69  73  =&quot;wonkafloor_vis
+00001190:  75  61  6c  69  7a  61  74  69  6f  6e  22  20  6d  69  6d  65  ualization&quot; mime
+000011a0:  54  79  70  65  3d  22  74  65  78  74  2f  78  6d  6c  22  2f  Type=&quot;text/xml&quot;/
+000011b0:  3e  0d  0a  20  20  20  20  20  20  20  20  20  3c  61  73  73  &gt;..         &lt;ass
+000011c0:  65  74  20  6e  61  6d  65  3d  22  77  6f  6e  6b  61  66  6c  et name=&quot;wonkafl
+000011d0:  6f  6f  72  5f  61  73  73  65  74  73  22  20  6d  69  6d  65  oor_assets&quot; mime
+000011e0:  54  79  70  65  3d  22  74  65  78  74  2f  78  6d  6c  22  2f  Type=&quot;text/xml&quot;/
+000011f0:  3e  0d  0a  20  20  20  20  20  20  20  20  20  3c  61  73  73  &gt;..         &lt;ass
+00001200:  65  74  20  6e  61  6d  65  3d  22  77  6f  6e  6b  61  66  6c  et name=&quot;wonkafl
+00001210:  6f  6f  72  5f  6c  6f  67  69  63  22  20  6d  69  6d  65  54  oor_logic&quot; mimeT
+00001220:  79  70  65  3d  22  74  65  78  74  2f  78  6d  6c  22  2f  3e  ype=&quot;text/xml&quot;/&gt;
+00001230:  0d  0a  20  20  20  20  20  20  20  20  20  3c  61  73  73  65  ..         &lt;asse
+00001240:  74  20  6e  61  6d  65  3d  22  77  6f  6e  6b  61  66  6c  6f  t name=&quot;wonkaflo
+00001250:  6f  72  5f  33  32  5f  61  5f  30  5f  30  22  20  6d  69  6d  or_32_a_0_0&quot; mim
+00001260:  65  54  79  70  65  3d  22  69  6d  61  67  65  2f  70  6e  67  eType=&quot;image/png
+00001270:  22  2f  3e  0d  0a  20  20  20  20  20  20  20  20  20  3c  61  &quot;/&gt;..         &lt;a
+00001280:  73  73  65  74  20  6e  61  6d  65  3d  22  77  6f  6e  6b  61  sset name=&quot;wonka
+00001290:  66  6c  6f  6f  72  5f  33  32  5f  61  5f  30  5f  31  22  20  floor_32_a_0_1&quot; 
+000012a0:  6d  69  6d  65  54  79  70  65  3d  22  69  6d  61  67  65  2f  mimeType=&quot;image/
+000012b0:  70  6e  67  22  2f  3e  0d  0a  20  20  20  20  20  20  20  20  png&quot;/&gt;..        
+000012c0:  20  3c  61  73  73  65  74  20  6e  61  6d  65  3d  22  77  6f   &lt;asset name=&quot;wo
+000012d0:  6e  6b  61  66  6c  6f  6f  72  5f  36  34  5f  61  5f  30  5f  nkafloor_64_a_0_
+000012e0:  30  22  20  6d  69  6d  65  54  79  70  65  3d  22  69  6d  61  0&quot; mimeType=&quot;ima
+000012f0:  67  65  2f  70  6e  67  22  2f  3e  0d  0a  20  20  20  20  20  ge/png&quot;/&gt;..     
+00001300:  20  20  20  20  3c  61  73  73  65  74  20  6e  61  6d  65  3d      &lt;asset name=
+00001310:  22  77  6f  6e  6b  61  66  6c  6f  6f  72  5f  36  34  5f  61  &quot;wonkafloor_64_a
+00001320:  5f  30  5f  31  22  20  6d  69  6d  65  54  79  70  65  3d  22  _0_1&quot; mimeType=&quot;
+00001330:  69  6d  61  67  65  2f  70  6e  67  22  2f  3e  0d  0a  20  20  image/png&quot;/&gt;..  
+00001340:  20  20  20  20  20  20  20  3c  61  73  73  65  74  20  6e  61         &lt;asset na
+00001350:  6d  65  3d  22  77  6f  6e  6b  61  66  6c  6f  6f  72  5f  69  me=&quot;wonkafloor_i
+00001360:  63  6f  6e  5f  61  22  20  6d  69  6d  65  54  79  70  65  3d  con_a&quot; mimeType=
+00001370:  22  69  6d  61  67  65  2f  70  6e  67  22  2f  3e  0d  0a  20  &quot;image/png&quot;/&gt;.. 
+00001380:  20  20  20  20  20  3c  2f  61  73  73  65  74  73  3e  0d  0a       &lt;/assets&gt;..
+00001390:  20  20  20  3c  2f  6c  69  62  72  61  72  79  3e  0d  0a  3c     &lt;/library&gt;..&lt;
+000013a0:  2f  6d  61  6e  69  66  65  73  74  3e  0d  0a  ff  15  c4  02  /manifest&gt;......
+000013b0:  00  00  0a  00  00  00  00  00  3c  3f  78  6d  6c  20  76  65  ........&lt;?xml ve
+000013c0:  72  73  69  6f  6e  3d  22  31  2e  30  22  20  65  6e  63  6f  rsion=&quot;1.0&quot; enco
+000013d0:  64  69  6e  67  3d  22  49  53  4f  2d  38  38  35  39  2d  31  ding=&quot;ISO-8859-1
+000013e0:  22  20  3f  3e  0d  0a  3c  61  73  73  65  74  73  3e  0d  0a  &quot; ?&gt;..&lt;assets&gt;..
+000013f0:  20  20  20  3c  61  73  73  65  74  20  6e  61  6d  65  3d  22     &lt;asset name=&quot;
+00001400:  77  6f  6e  6b  61  66  6c  6f  6f  72  5f  33  32  5f  61  5f  wonkafloor_32_a_
+00001410:  30  5f  30  22  20  78  3d  22  33  32  22  20  79  3d  22  37  0_0&quot; x=&quot;32&quot; y=&quot;7
+00001420:  22  2f  3e  0d  0a  20  20  20  3c  61  73  73  65  74  20  6e  &quot;/&gt;..   &lt;asset n
+00001430:  61  6d  65  3d  22  77  6f  6e  6b  61  66  6c  6f  6f  72  5f  ame=&quot;wonkafloor_
+00001440:  33  32  5f  61  5f  30  5f  31  22  20  78  3d  22  33  32  22  32_a_0_1&quot; x=&quot;32&quot;
+00001450:  20  79  3d  22  37  22  2f  3e  0d  0a  20  20  20  3c  61  73   y=&quot;7&quot;/&gt;..   &lt;as
+00001460:  73  65  74  20  6e  61  6d  65  3d  22  77  6f  6e  6b  61  66  set name=&quot;wonkaf
+00001470:  6c  6f  6f  72  5f  33  32  5f  61  5f  32  5f  30  22  20  66  loor_32_a_2_0&quot; f
+00001480:  6c  69  70  48  3d  22  31  22  20  73  6f  75  72  63  65  3d  lipH=&quot;1&quot; source=
+00001490:  22  77  6f  6e  6b  61  66  6c  6f  6f  72  5f  33  32  5f  61  &quot;wonkafloor_32_a
+000014a0:  5f  30  5f  30  22  20  78  3d  22  33  32  22  20  79  3d  22  _0_0&quot; x=&quot;32&quot; y=&quot;
+000014b0:  37  22  2f  3e  0d  0a  20  20  20  3c  61  73  73  65  74  20  7&quot;/&gt;..   &lt;asset 
+000014c0:  6e  61  6d  65  3d  22  77  6f  6e  6b  61  66  6c  6f  6f  72  name=&quot;wonkafloor
+000014d0:  5f  33  32  5f  61  5f  32  5f  31  22  20  66  6c  69  70  48  _32_a_2_1&quot; flipH
+000014e0:  3d  22  31  22  20  73  6f  75  72  63  65  3d  22  77  6f  6e  =&quot;1&quot; source=&quot;won
+000014f0:  6b  61  66  6c  6f  6f  72  5f  33  32  5f  61  5f  30  5f  31  kafloor_32_a_0_1
+00001500:  22  20  78  3d  22  33  32  22  20  79  3d  22  37  22  2f  3e  &quot; x=&quot;32&quot; y=&quot;7&quot;/&gt;
+00001510:  0d  0a  20  20  20  3c  61  73  73  65  74  20  6e  61  6d  65  ..   &lt;asset name
+00001520:  3d  22  77  6f  6e  6b  61  66  6c  6f  6f  72  5f  36  34  5f  =&quot;wonkafloor_64_
+00001530:  61  5f  30  5f  30  22  20  78  3d  22  36  34  22  20  79  3d  a_0_0&quot; x=&quot;64&quot; y=
+00001540:  22  31  37  22  2f  3e  0d  0a  20  20  20  3c  61  73  73  65  &quot;17&quot;/&gt;..   &lt;asse
+00001550:  74  20  6e  61  6d  65  3d  22  77  6f  6e  6b  61  66  6c  6f  t name=&quot;wonkaflo
+00001560:  6f  72  5f  36  34  5f  61  5f  30  5f  31  22  20  78  3d  22  or_64_a_0_1&quot; x=&quot;
+00001570:  36  34  22  20  79  3d  22  31  37  22  2f  3e  0d  0a  20  20  64&quot; y=&quot;17&quot;/&gt;..  
+00001580:  20  3c  61  73  73  65  74  20  6e  61  6d  65  3d  22  77  6f   &lt;asset name=&quot;wo
+00001590:  6e  6b  61  66  6c  6f  6f  72  5f  36  34  5f  61  5f  32  5f  nkafloor_64_a_2_
+000015a0:  30  22  20  66  6c  69  70  48  3d  22  31  22  20  73  6f  75  0&quot; flipH=&quot;1&quot; sou
+000015b0:  72  63  65  3d  22  77  6f  6e  6b  61  66  6c  6f  6f  72  5f  rce=&quot;wonkafloor_
+000015c0:  36  34  5f  61  5f  30  5f  30  22  20  78  3d  22  36  34  22  64_a_0_0&quot; x=&quot;64&quot;
+000015d0:  20  79  3d  22  31  37  22  2f  3e  0d  0a  20  20  20  3c  61   y=&quot;17&quot;/&gt;..   &lt;a
+000015e0:  73  73  65  74  20  6e  61  6d  65  3d  22  77  6f  6e  6b  61  sset name=&quot;wonka
+000015f0:  66  6c  6f  6f  72  5f  36  34  5f  61  5f  32  5f  31  22  20  floor_64_a_2_1&quot; 
+00001600:  66  6c  69  70  48  3d  22  31  22  20  73  6f  75  72  63  65  flipH=&quot;1&quot; source
+00001610:  3d  22  77  6f  6e  6b  61  66  6c  6f  6f  72  5f  36  34  5f  =&quot;wonkafloor_64_
+00001620:  61  5f  30  5f  31  22  20  78  3d  22  36  34  22  20  79  3d  a_0_1&quot; x=&quot;64&quot; y=
+00001630:  22  31  37  22  2f  3e  0d  0a  20  20  20  3c  61  73  73  65  &quot;17&quot;/&gt;..   &lt;asse
+00001640:  74  20  6e  61  6d  65  3d  22  77  6f  6e  6b  61  66  6c  6f  t name=&quot;wonkaflo
+00001650:  6f  72  5f  69  63  6f  6e  5f  61  22  20  78  3d  22  31  36  or_icon_a&quot; x=&quot;16
+00001660:  22  20  79  3d  22  38  22  2f  3e  0d  0a  3c  2f  61  73  73  &quot; y=&quot;8&quot;/&gt;..&lt;/ass
+00001670:  65  74  73  3e  0d  0a  bf  14  95  13  00  00  01  00  00  00  ets&gt;............
+00001680:  66  72  61  6d  65  31  00  10  00  2e  00  02  00  00  00  86  frame1..........
+00001690:  01  0d  66  6c  61  73  68  2e  64  69  73  70  6c  61  79  0a  ..flash.display.
+000016a0:  42  69  74  6d  61  70  44  61  74  61  00  06  53  74  72  69  BitmapData..Stri
+000016b0:  6e  67  07  42  6f  6f  6c  65  61  6e  04  61  75  74  6f  0d  ng.Boolean.auto.
+000016c0:  44  69  73  70  6c  61  79  4f  62  6a  65  63  74  05  53  74  DisplayObject.St
+000016d0:  61  67  65  04  76  6f  69  64  16  44  69  73  70  6c  61  79  age.void.Display
+000016e0:  4f  62  6a  65  63  74  43  6f  6e  74  61  69  6e  65  72  06  ObjectContainer.
+000016f0:  4e  75  6d  62  65  72  06  4f  62  6a  65  63  74  0a  66  6c  Number.Object.fl
+00001700:  61  73  68  2e  67  65  6f  6d  09  52  65  63  74  61  6e  67  ash.geom.Rectang
+00001710:  6c  65  05  41  72  72  61  79  09  54  72  61  6e  73  66  6f  le.Array.Transfo
+00001720:  72  6d  05  50  6f  69  6e  74  0a  4c  6f  61  64  65  72  49  rm.Point.LoaderI
+00001730:  6e  66  6f  13  66  6c  61  73  68  2e  61  63  63  65  73  73  nfo.flash.access
+00001740:  69  62  69  6c  69  74  79  17  41  63  63  65  73  73  69  62  ibility.Accessib
+00001750:  69  6c  69  74  79  50  72  6f  70  65  72  74  69  65  73  07  ilityProperties.
+00001760:  6d  78  2e  63  6f  72  65  0f  49  52  65  70  65  61  74  65  mx.core.IRepeate
+00001770:  72  43  6c  69  65  6e  74  0a  77  6f  6e  6b  61  66  6c  6f  rClient.wonkaflo
+00001780:  6f  72  06  53  70  72  69  74  65  0a  49  46  6c  65  78  41  or.Sprite.IFlexA
+00001790:  73  73  65  74  0a  46  6c  65  78  42  69  74  6d  61  70  06  sset.FlexBitmap.
+000017a0:  42  69  74  6d  61  70  12  6d  78  2e  63  6f  72  65  3a  46  Bitmap.mx.core:F
+000017b0:  6c  65  78  42  69  74  6d  61  70  08  74  6f  53  74  72  69  lexBitmap.toStri
+000017c0:  6e  67  12  49  46  6c  65  78  44  69  73  70  6c  61  79  4f  ng.IFlexDisplayO
+000017d0:  62  6a  65  63  74  0f  49  42  69  74  6d  61  70  44  72  61  bject.IBitmapDra
+000017e0:  77  61  62  6c  65  10  49  45  76  65  6e  74  44  69  73  70  wable.IEventDisp
+000017f0:  61  74  63  68  65  72  0c  66  6c  61  73  68  2e  65  76  65  atcher.flash.eve
+00001800:  6e  74  73  1a  6d  78  2e  63  6f  72  65  3a  49  46  6c  65  nts.mx.core:IFle
+00001810:  78  44  69  73  70  6c  61  79  4f  62  6a  65  63  74  07  76  xDisplayObject.v
+00001820:  69  73  69  62  6c  65  08  72  6f  74  61  74  69  6f  6e  0d  isible.rotation.
+00001830:  6c  6f  63  61  6c  54  6f  47  6c  6f  62  61  6c  04  6e  61  localToGlobal.na
+00001840:  6d  65  05  77  69  64  74  68  0e  6d  65  61  73  75  72  65  me.width.measure
+00001850:  64  48  65  69  67  68  74  09  62  6c  65  6e  64  4d  6f  64  dHeight.blendMod
+00001860:  65  0a  73  63  61  6c  65  39  47  72  69  64  06  73  63  61  e.scale9Grid.sca
+00001870:  6c  65  58  06  73  63  61  6c  65  59  0d  6d  65  61  73  75  leX.scaleY.measu
+00001880:  72  65  64  57  69  64  74  68  17  61  63  63  65  73  73  69  redWidth.accessi
+00001890:  62  69  6c  69  74  79  50  72  6f  70  65  72  74  69  65  73  bilityProperties
+000018a0:  0a  73  63  72  6f  6c  6c  52  65  63  74  0d  63  61  63  68  .scrollRect.cach
+000018b0:  65  41  73  42  69  74  6d  61  70  0d  67  6c  6f  62  61  6c  eAsBitmap.global
+000018c0:  54  6f  4c  6f  63  61  6c  06  68  65  69  67  68  74  06  70  ToLocal.height.p
+000018d0:  61  72  65  6e  74  09  67  65  74  42  6f  75  6e  64  73  10  arent.getBounds.
+000018e0:  6f  70  61  71  75  65  42  61  63  6b  67  72  6f  75  6e  64  opaqueBackground
+000018f0:  0d  73  65  74  41  63  74  75  61  6c  53  69  7a  65  05  61  .setActualSize.a
+00001900:  6c  70  68  61  0c  68  69  74  54  65  73  74  50  6f  69  6e  lpha.hitTestPoin
+00001910:  74  06  6d  6f  75  73  65  58  06  6d  6f  75  73  65  59  04  t.mouseX.mouseY.
+00001920:  6d  61  73  6b  07  67  65  74  52  65  63  74  09  74  72  61  mask.getRect.tra
+00001930:  6e  73  66  6f  72  6d  04  6d  6f  76  65  0a  6c  6f  61  64  nsform.move.load
+00001940:  65  72  49  6e  66  6f  04  72  6f  6f  74  0d  68  69  74  54  erInfo.root.hitT
+00001950:  65  73  74  4f  62  6a  65  63  74  01  78  01  79  07  66  69  estObject.x.y.fi
+00001960:  6c  74  65  72  73  05  73  74  61  67  65  0b  42  69  74  6d  lters.stage.Bitm
+00001970:  61  70  41  73  73  65  74  13  6d  78  2e  63  6f  72  65  3a  apAsset.mx.core:
+00001980:  42  69  74  6d  61  70  41  73  73  65  74  1e  77  6f  6e  6b  BitmapAsset.wonk
+00001990:  61  66  6c  6f  6f  72  5f  77  6f  6e  6b  61  66  6c  6f  6f  afloor_wonkafloo
+000019a0:  72  5f  36  34  5f  61  5f  30  5f  30  1e  77  6f  6e  6b  61  r_64_a_0_0.wonka
+000019b0:  66  6c  6f  6f  72  5f  77  6f  6e  6b  61  66  6c  6f  6f  72  floor_wonkafloor
+000019c0:  5f  36  34  5f  61  5f  30  5f  31  1e  77  6f  6e  6b  61  66  _64_a_0_1.wonkaf
+000019d0:  6c  6f  6f  72  5f  77  6f  6e  6b  61  66  6c  6f  6f  72  5f  loor_wonkafloor_
+000019e0:  33  32  5f  61  5f  30  5f  30  0e  42  79  74  65  41  72  72  32_a_0_0.ByteArr
+000019f0:  61  79  41  73  73  65  74  0b  66  6c  61  73  68  2e  75  74  ayAsset.flash.ut
+00001a00:  69  6c  73  09  42  79  74  65  41  72  72  61  79  16  6d  78  ils.ByteArray.mx
+00001a10:  2e  63  6f  72  65  3a  42  79  74  65  41  72  72  61  79  41  .core:ByteArrayA
+00001a20:  73  73  65  74  1b  77  6f  6e  6b  61  66  6c  6f  6f  72  5f  sset.wonkafloor_
+00001a30:  77  6f  6e  6b  61  66  6c  6f  6f  72  5f  6c  6f  67  69  63  wonkafloor_logic
+00001a40:  1e  77  6f  6e  6b  61  66  6c  6f  6f  72  5f  77  6f  6e  6b  .wonkafloor_wonk
+00001a50:  61  66  6c  6f  6f  72  5f  33  32  5f  61  5f  30  5f  31  23  afloor_32_a_0_1#
+00001a60:  77  6f  6e  6b  61  66  6c  6f  6f  72  5f  77  6f  6e  6b  61  wonkafloor_wonka
+00001a70:  66  6c  6f  6f  72  5f  76  69  73  75  61  6c  69  7a  61  74  floor_visualizat
+00001a80:  69  6f  6e  10  77  6f  6e  6b  61  66  6c  6f  6f  72  5f  69  ion.wonkafloor_i
+00001a90:  6e  64  65  78  1c  77  6f  6e  6b  61  66  6c  6f  6f  72  5f  ndex.wonkafloor_
+00001aa0:  77  6f  6e  6b  61  66  6c  6f  6f  72  5f  69  63  6f  6e  5f  wonkafloor_icon_
+00001ab0:  61  13  77  6f  6e  6b  61  66  6c  6f  6f  72  5f  6d  61  6e  a.wonkafloor_man
+00001ac0:  69  66  65  73  74  1c  77  6f  6e  6b  61  66  6c  6f  6f  72  ifest.wonkafloor
+00001ad0:  5f  77  6f  6e  6b  61  66  6c  6f  6f  72  5f  61  73  73  65  _wonkafloor_asse
+00001ae0:  74  73  08  6d  78  2e  75  74  69  6c  73  08  4e  61  6d  65  ts.mx.utils.Name
+00001af0:  55  74  69  6c  11  6d  78  2e  75  74  69  6c  73  3a  4e  61  Util.mx.utils:Na
+00001b00:  6d  65  55  74  69  6c  17  6d  78  2e  63  6f  72  65  3a  49  meUtil.mx.core:I
+00001b10:  52  65  70  65  61  74  65  72  43  6c  69  65  6e  74  0f  69  RepeaterClient.i
+00001b20:  6e  73  74  61  6e  63  65  49  6e  64  69  63  65  73  0a  69  nstanceIndices.i
+00001b30:  73  44  6f  63  75  6d  65  6e  74  09  72  65  70  65  61  74  sDocument.repeat
+00001b40:  65  72  73  18  69  6e  69  74  69  61  6c  69  7a  65  52  65  ers.initializeRe
+00001b50:  70  65  61  74  65  72  41  72  72  61  79  73  0f  72  65  70  peaterArrays.rep
+00001b60:  65  61  74  65  72  49  6e  64  69  63  65  73  13  77  6f  6e  eaterIndices.won
+00001b70:  6b  61  66  6c  6f  6f  72  5f  36  34  5f  61  5f  30  5f  31  kafloor_64_a_0_1
+00001b80:  05  43  6c  61  73  73  11  77  6f  6e  6b  61  66  6c  6f  6f  .Class.wonkafloo
+00001b90:  72  5f  69  63  6f  6e  5f  61  08  6d  61  6e  69  66  65  73  r_icon_a.manifes
+00001ba0:  74  11  77  6f  6e  6b  61  66  6c  6f  6f  72  5f  61  73  73  t.wonkafloor_ass
+00001bb0:  65  74  73  10  77  6f  6e  6b  61  66  6c  6f  6f  72  5f  6c  ets.wonkafloor_l
+00001bc0:  6f  67  69  63  05  69  6e  64  65  78  13  77  6f  6e  6b  61  ogic.index.wonka
+00001bd0:  66  6c  6f  6f  72  5f  36  34  5f  61  5f  30  5f  30  18  77  floor_64_a_0_0.w
+00001be0:  6f  6e  6b  61  66  6c  6f  6f  72  5f  76  69  73  75  61  6c  onkafloor_visual
+00001bf0:  69  7a  61  74  69  6f  6e  13  77  6f  6e  6b  61  66  6c  6f  ization.wonkaflo
+00001c00:  6f  72  5f  33  32  5f  61  5f  30  5f  31  13  77  6f  6e  6b  or_32_a_0_1.wonk
+00001c10:  61  66  6c  6f  6f  72  5f  33  32  5f  61  5f  30  5f  30  2a  afloor_32_a_0_0*
+00001c20:  68  74  74  70  3a  2f  2f  77  77  77  2e  61  64  6f  62  65  http://www.adobe
+00001c30:  2e  63  6f  6d  2f  32  30  30  36  2f  66  6c  65  78  2f  6d  .com/2006/flex/m
+00001c40:  78  2f  69  6e  74  65  72  6e  61  6c  07  56  45  52  53  49  x/internal.VERSI
+00001c50:  4f  4e  07  33  2e  30  2e  30  2e  30  07  63  6f  75  6e  74  ON.3.0.0.0.count
+00001c60:  65  72  03  69  6e  74  15  64  69  73  70  6c  61  79  4f  62  er.int.displayOb
+00001c70:  6a  65  63  74  54  6f  53  74  72  69  6e  67  10  63  72  65  jectToString.cre
+00001c80:  61  74  65  55  6e  69  71  75  65  4e  61  6d  65  0b  6d  78  ateUniqueName.mx
+00001c90:  5f  69  6e  74  65  72  6e  61  6c  0f  45  76  65  6e  74  44  _internal.EventD
+00001ca0:  69  73  70  61  74  63  68  65  72  11  49  6e  74  65  72  61  ispatcher.Intera
+00001cb0:  63  74  69  76  65  4f  62  6a  65  63  74  05  45  72  72  6f  ctiveObject.Erro
+00001cc0:  72  01  65  0a  62  69  74  6d  61  70  44  61  74  61  0d  70  r.e.bitmapData.p
+00001cd0:  69  78  65  6c  53  6e  61  70  70  69  6e  67  09  73  6d  6f  ixelSnapping.smo
+00001ce0:  6f  74  68  69  6e  67  15  67  65  74  51  75  61  6c  69  66  othing.getQualif
+00001cf0:  69  65  64  43  6c  61  73  73  4e  61  6d  65  02  3a  3a  21  iedClassName.::!
+00001d00:  68  74  74  70  3a  2f  2f  61  64  6f  62  65  2e  63  6f  6d  http://adobe.com
+00001d10:  2f  41  53  33  2f  32  30  30  36  2f  62  75  69  6c  74  69  /AS3/2006/builti
+00001d20:  6e  07  69  6e  64  65  78  4f  66  06  73  75  62  73  74  72  n.indexOf.substr
+00001d30:  06  6c  65  6e  67  74  68  0a  63  68  61  72  43  6f  64  65  .length.charCode
+00001d40:  41  74  01  5f  01  5b  02  5d  5b  04  6a  6f  69  6e  01  5d  At._.[.][.join.]
+00001d50:  01  2e  1e  16  01  16  03  16  0d  16  13  16  15  18  17  18  ................
+00001d60:  1c  16  21  08  22  18  47  18  48  18  49  18  4a  16  4c  18  ..!.&quot;.G.H.I.J.L.
+00001d70:  4e  18  4f  18  50  18  51  18  52  18  53  18  54  18  55  16  N.O.P.Q.R.S.T.U.
+00001d80:  56  18  58  08  59  08  6a  05  00  17  15  08  7b  06  01  01  V.X.Y.j.....{...
+00001d90:  01  08  01  05  01  02  01  17  8b  01  07  01  02  07  02  04  ................
+00001da0:  07  02  05  07  01  07  07  01  08  07  02  09  07  01  0a  07  ................
+00001db0:  02  0b  07  02  0c  07  03  0e  07  02  0f  07  03  10  07  03  ................
+00001dc0:  11  07  01  12  07  04  14  07  05  16  07  02  17  07  01  18  ................
+00001dd0:  07  05  19  07  05  1a  07  01  1b  07  02  1d  07  05  1e  09  ................
+00001de0:  1f  01  09  20  02  07  09  23  07  09  24  07  09  25  07  09  ... ...#..$..%..
+00001df0:  26  07  09  27  07  09  28  07  09  29  07  09  2a  07  09  2b  &amp;..&#39;..(..)..*..+
+00001e00:  07  09  2c  07  09  2d  07  09  2e  07  09  2f  07  09  30  07  ..,..-...../..0.
+00001e10:  09  31  07  09  32  07  09  33  07  09  34  07  09  35  07  09  .1..2..3..4..5..
+00001e20:  36  07  09  37  07  09  38  07  09  39  07  09  3a  07  09  3b  6..7..8..9..:..;
+00001e30:  07  09  3c  07  09  3d  07  09  3e  07  09  3f  07  09  40  07  ..&lt;..=..&gt;..?..@.
+00001e40:  09  41  07  09  42  07  09  43  07  09  44  07  09  45  07  05  .A..B..C..D..E..
+00001e50:  46  09  19  03  09  1e  03  07  02  2d  07  02  28  07  02  36  F........-..(..6
+00001e60:  07  02  3e  07  02  48  07  02  49  07  02  4a  07  05  4b  07  ..&gt;..H..I..J..K.
+00001e70:  0e  4d  07  02  4f  07  02  50  07  02  51  07  02  52  07  02  .M..O..P..Q..R..
+00001e80:  53  07  02  54  07  02  55  07  17  57  07  19  5a  07  19  5b  S..T..U..W..Z..[
+00001e90:  07  19  5c  07  19  5d  07  19  5e  07  02  5f  07  02  60  07  ..\..]..^.._..`.
+00001ea0:  02  61  07  02  62  07  02  63  07  02  64  07  02  65  07  02  .a..b..c..d..e..
+00001eb0:  66  07  02  67  07  02  68  07  02  69  07  1a  6b  07  1b  6d  f..g..h..i..k..m
+00001ec0:  07  02  6e  07  02  6f  07  02  70  07  05  71  07  08  72  07  ..n..o..p..q..r.
+00001ed0:  01  73  07  02  26  07  02  74  07  02  75  07  1c  76  07  1c  .s..&amp;..t..u..v..
+00001ee0:  77  07  1c  78  09  1a  03  07  02  76  07  02  32  07  02  27  w..x.....v..2..&#39;
+00001ef0:  07  02  42  07  02  43  09  46  03  09  48  04  09  49  04  09  ..B..C.F..H..I..
+00001f00:  4a  04  09  4b  03  09  4f  04  09  50  04  09  51  04  09  52  J..K..O..P..Q..R
+00001f10:  04  09  53  04  09  54  04  09  55  04  07  0e  79  07  1d  7c  ..S..T..U...y..|
+00001f20:  07  1d  7d  07  02  7e  07  1d  7f  07  02  33  07  02  45  07  ..}..~.....3..E.
+00001f30:  1d  83  01  09  57  05  09  16  03  7c  00  00  00  00  00  00  ....W....|......
+00001f40:  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  ................
+00001f50:  00  00  00  00  00  00  03  00  01  02  03  00  0a  03  0c  0c  ................
+00001f60:  06  01  0a  0a  00  02  00  00  00  00  00  00  00  00  00  00  ................
+00001f70:  00  04  00  00  00  05  00  00  00  02  00  00  01  06  02  00  ................
+00001f80:  00  00  07  00  00  00  04  00  00  01  06  04  00  00  00  03  ................
+00001f90:  00  00  01  06  03  00  00  00  08  00  00  01  06  08  00  00  ................
+00001fa0:  00  08  00  00  01  06  08  00  00  00  08  00  00  01  06  08  ................
+00001fb0:  00  00  00  08  00  00  01  06  08  00  00  00  08  00  00  00  ................
+00001fc0:  08  00  00  00  08  00  00  01  06  08  00  00  00  08  00  00  ................
+00001fd0:  01  06  08  00  00  00  08  00  00  01  06  08  00  00  00  08  ................
+00001fe0:  00  00  01  06  08  00  00  00  03  00  00  01  06  03  00  00  ................
+00001ff0:  00  09  00  00  01  06  09  00  00  00  0a  00  00  01  06  0a  ................
+00002000:  00  00  00  0b  00  00  01  06  0b  00  00  00  02  00  00  01  ................
+00002010:  06  02  00  00  00  0c  00  00  01  06  0c  00  00  00  0a  00  ................
+00002020:  00  01  06  0a  00  00  01  0d  0d  00  00  01  0d  0d  00  00  ................
+00002030:  01  0a  04  00  00  01  0a  04  00  00  00  0e  00  00  01  03  ................
+00002040:  04  00  00  03  03  08  08  03  00  08  01  0a  0a  00  0f  00  ................
+00002050:  00  01  06  0f  00  00  00  08  00  00  00  08  00  00  02  06  ................
+00002060:  08  08  00  00  02  06  08  08  00  00  00  00  00  00  00  00  ................
+00002070:  00  00  00  00  00  00  03  00  01  02  03  00  08  03  0c  0c  ................
+00002080:  06  01  0a  0a  00  08  00  00  00  08  00  00  02  06  08  08  ................
+00002090:  00  00  02  06  08  08  00  00  00  00  00  00  00  00  00  00  ................
+000020a0:  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  ................
+000020b0:  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  ................
+000020c0:  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  ................
+000020d0:  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  ................
+000020e0:  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  ................
+000020f0:  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  ................
+00002100:  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  ................
+00002110:  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  ................
+00002120:  00  00  00  00  00  00  00  00  01  02  09  00  00  01  02  04  ................
+00002130:  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  0b  ................
+00002140:  00  00  01  06  0b  00  00  00  03  00  00  00  0b  00  00  01  ................
+00002150:  06  0b  00  00  00  0b  00  00  01  06  0b  00  00  01  06  10  ................
+00002160:  00  00  00  00  00  00  00  00  00  00  00  12  11  12  09  06  ................
+00002170:  00  01  00  13  00  05  00  04  00  14  15  09  07  00  07  01  ................
+00002180:  16  21  00  08  17  00  05  02  18  19  41  36  1a  02  00  12  .!........A6....
+00002190:  1b  02  00  1e  1c  01  00  35  1d  02  00  0d  1e  03  00  23  .......5.......#
+000021a0:  1f  02  00  3d  20  02  00  2e  21  02  00  32  1d  03  00  0e  ...= ...!..2....
+000021b0:  22  03  00  19  23  03  00  1b  24  02  00  3e  25  02  00  3b  &quot;...#...$..&gt;%..;
+000021c0:  26  03  00  2b  27  02  00  26  28  01  00  34  29  02  00  24  &amp;..+&#39;..&amp;(..4)..$
+000021d0:  20  03  00  2f  2a  02  00  0f  2b  01  00  36  2c  02  00  28   ../*...+..6,..(
+000021e0:  21  03  00  33  2d  01  00  40  2e  03  00  21  25  03  00  3c  !..3-..@...!%..&lt;
+000021f0:  1e  02  00  22  2f  01  00  3a  27  03  00  27  22  02  00  18  ...&quot;/..:&#39;..&#39;&quot;...
+00002200:  23  02  00  1a  26  02  00  2a  30  02  00  1c  31  02  00  1d  #...&amp;..*0...1...
+00002210:  29  03  00  25  32  03  00  11  33  01  00  37  2e  02  00  20  )..%2...3..7... 
+00002220:  34  03  00  31  35  01  00  3f  36  02  00  38  37  02  00  0b  4..15..?6..87...
+00002230:  38  01  00  39  2c  03  00  29  1a  03  00  13  32  02  00  10  8..9,..)....2...
+00002240:  39  03  00  15  3a  03  00  17  34  02  00  30  3b  03  00  2d  9...:...4..0;..-
+00002250:  39  02  00  14  3a  02  00  16  3b  02  00  2c  1b  03  00  1f  9...:...;..,....
+00002260:  3c  02  00  0c  3d  14  09  0a  02  3e  3f  44  04  40  02  00  &lt;...=....&gt;?D.@..
+00002270:  46  41  02  00  45  42  01  00  48  43  01  00  47  44  3d  09  FA..EB..HC..GD=.
+00002280:  0b  00  4b  00  45  3d  09  0c  00  4e  00  46  3d  09  0d  00  ..K.E=...N.F=...
+00002290:  51  00  47  48  09  0f  01  3e  54  00  49  47  09  10  00  57  Q.GH...&gt;T.IG...W
+000022a0:  00  4a  3d  09  11  00  5a  00  4b  47  09  12  00  5d  00  4c  .J=...Z.KG...].L
+000022b0:  47  09  13  00  60  00  4d  3d  09  14  00  63  00  4e  47  09  G...`.M=...c.NG.
+000022c0:  15  00  66  00  4f  47  09  16  00  69  00  50  09  09  18  00  ..f.OG...i.P....
+000022d0:  6f  00  10  00  05  00  7a  08  51  02  00  72  51  03  00  73  o.....z.Q..rQ..s
+000022e0:  52  02  00  74  53  03  00  78  54  01  00  79  53  02  00  77  R..tS..xT..yS..w
+000022f0:  55  03  00  76  55  02  00  75  00  0a  56  00  09  57  00  58  U..vU..u..V..W.X
+00002300:  00  0a  57  00  59  06  01  57  00  5a  06  04  57  00  5b  06  ..W.Y..W.Z..W.[.
+00002310:  05  57  00  5c  06  02  57  00  5d  00  08  57  00  5e  06  03  .W.\..W.]..W.^..
+00002320:  57  00  5f  00  07  57  00  60  00  06  57  00  03  00  06  01  W._..W.`..W.....
+00002330:  61  06  01  02  6c  01  0a  00  43  01  61  06  01  02  6c  01  a...l...C.a...l.
+00002340:  4a  00  4d  00  50  00  53  01  61  06  01  02  6c  01  56  00  J.M.P.S.a...l.V.
+00002350:  59  00  5c  00  5f  00  62  00  65  00  68  00  6c  04  61  06  Y.\._.b.e.h.l.a.
+00002360:  01  02  6c  01  62  00  02  63  01  03  64  11  04  6e  65  11  ..l.b..c..d..ne.
+00002370:  03  6d  71  00  13  02  01  11  04  01  00  05  01  13  04  00  .mq.............
+00002380:  01  09  01  14  04  00  02  42  01  17  04  00  03  49  01  3d  .......B.....I.=
+00002390:  04  00  04  4c  01  44  04  00  05  4f  01  45  04  00  06  52  ...L.D...O.E...R
+000023a0:  01  46  04  00  07  55  01  47  04  00  08  58  01  49  04  00  .F...U.G...X.I..
+000023b0:  09  5b  01  4a  04  00  0a  5e  01  4b  04  00  0b  61  01  4c  .[.J...^.K...a.L
+000023c0:  04  00  0c  64  01  4d  04  00  0d  67  01  4e  04  00  0e  6a  ...d.M...g.N...j
+000023d0:  01  4f  04  00  0f  6b  01  66  06  00  00  1a  08  70  01  50  .O...k.f.....p.P
+000023e0:  04  00  10  7b  01  10  04  00  11  3b  00  02  01  08  09  3f  ...{.....;.....?
+000023f0:  d0  30  5e  59  60  4e  68  59  5e  5c  60  4c  68  5c  5e  5e  .0^Y`NhY^\`Lh\^^
+00002400:  60  4b  68  5e  5e  5a  60  4f  68  5a  5e  5b  60  49  68  5b  `Kh^^Z`OhZ^[`Ih[
+00002410:  5e  60  60  46  61  60  5e  5f  60  4a  61  5f  5e  5d  60  44  ^``Fa`^_`Ja_^]`D
+00002420:  61  5d  5e  56  60  45  61  56  5e  58  60  4d  61  58  47  00  a]^V`EaV^X`MaXG.
+00002430:  00  01  01  01  09  0a  06  d0  30  d0  49  00  47  00  00  02  ........0.I.G...
+00002440:  02  01  01  08  23  d0  30  65  00  60  09  30  60  67  30  60  ....#.0e.`.0`g0`
+00002450:  04  30  60  68  30  60  07  30  60  12  30  60  12  58  00  1d  .0`h0`.0`.0`.X..
+00002460:  1d  1d  1d  1d  1d  68  11  47  00  00  03  00  01  03  03  01  .....h.G........
+00002470:  47  00  00  05  02  01  01  02  0a  d0  30  5d  3e  20  58  01  G.........0]&gt; X.
+00002480:  68  13  47  00  00  06  02  01  06  07  09  d0  30  5e  61  2c  h.G.........0^a,
+00002490:  6c  68  61  47  00  00  07  04  06  08  0d  46  d0  30  57  2a  lhaG.......F.0W*
+000024a0:  63  04  30  65  01  d1  6d  01  65  01  d2  6d  02  65  01  d3  c.0e..m.e..m.e..
+000024b0:  6d  03  d0  65  01  6c  01  65  01  6c  02  65  01  6c  03  49  m..e.l.e.l.e.l.I
+000024c0:  03  5e  69  60  50  d0  46  65  01  68  69  10  12  00  00  d0  .^i`P.Fe.hi.....
+000024d0:  30  62  04  30  5a  00  2a  63  05  2a  30  2b  6d  01  1d  08  0b.0Z.*c.*0+m...
+000024e0:  05  47  01  25  2f  33  6a  6b  03  6c  00  01  01  0c  0c  6d  .G.%/3jk.l.....m
+000024f0:  00  02  02  06  01  6e  00  03  03  0a  0a  08  02  01  07  08  .....n..........
+00002500:  09  d0  30  60  50  d0  46  64  01  48  00  00  09  02  01  01  ..0`P.Fd.H......
+00002510:  06  1b  d0  30  5d  6f  60  09  30  60  67  30  60  04  30  60  ...0]o`.0`g0`.0`
+00002520:  15  30  60  15  58  02  1d  1d  1d  1d  68  14  47  00  00  0a  .0`.X.....h.G...
+00002530:  00  01  04  04  01  47  00  00  42  02  01  01  02  0a  d0  30  .....G..B......0
+00002540:  5d  3f  20  58  03  68  17  47  00  00  43  02  01  07  08  09  ]? X.h.G..C.....
+00002550:  d0  30  5e  61  2c  6c  68  61  47  00  00  44  04  04  08  09  .0^a,lhaG..D....
+00002560:  09  d0  30  d0  d1  d2  d3  49  03  47  00  00  45  01  01  08  ..0....I.G..E...
+00002570:  09  10  d0  30  60  70  12  05  00  00  60  70  66  71  48  24  ...0`p....`pfqH$
+00002580:  00  48  00  00  46  01  01  08  09  10  d0  30  60  70  12  05  .H..F......0`p..
+00002590:  00  00  60  70  66  72  48  24  00  48  00  00  47  02  03  08  ..`pfrH$.H..G...
+000025a0:  09  0b  d0  30  d0  d1  61  73  d0  d2  61  74  47  00  00  48  ...0..as..atG..H
+000025b0:  02  03  08  09  0d  d0  30  5e  72  d1  68  72  5e  71  d2  68  ......0^r.hr^q.h
+000025c0:  71  47  00  00  49  02  01  01  07  1f  d0  30  5d  75  60  09  qG..I......0]u`.
+000025d0:  30  60  67  30  60  04  30  60  15  30  60  14  30  60  14  58  0`g0`.0`.0`.0`.X
+000025e0:  04  1d  1d  1d  1d  1d  68  3d  47  00  00  4a  01  01  08  09  ......h=G..J....
+000025f0:  03  d0  30  47  00  00  4b  01  01  09  0a  06  d0  30  d0  49  ..0G..K......0.I
+00002600:  00  47  00  00  4c  02  01  01  08  23  d0  30  5d  76  60  09  .G..L....#.0]v`.
+00002610:  30  60  67  30  60  04  30  60  15  30  60  14  30  60  3d  30  0`g0`.0`.0`.0`=0
+00002620:  60  3d  58  05  1d  1d  1d  1d  1d  1d  68  44  47  00  00  4d  `=X.......hDG..M
+00002630:  01  01  08  09  03  d0  30  47  00  00  4e  01  01  09  0a  06  ......0G..N.....
+00002640:  d0  30  d0  49  00  47  00  00  4f  02  01  01  08  23  d0  30  .0.I.G..O....#.0
+00002650:  5d  77  60  09  30  60  67  30  60  04  30  60  15  30  60  14  ]w`.0`g0`.0`.0`.
+00002660:  30  60  3d  30  60  3d  58  06  1d  1d  1d  1d  1d  1d  68  45  0`=0`=X.......hE
+00002670:  47  00  00  50  01  01  08  09  03  d0  30  47  00  00  51  01  G..P......0G..Q.
+00002680:  01  09  0a  06  d0  30  d0  49  00  47  00  00  52  02  01  01  .....0.I.G..R...
+00002690:  08  23  d0  30  5d  78  60  09  30  60  67  30  60  04  30  60  .#.0]x`.0`g0`.0`
+000026a0:  15  30  60  14  30  60  3d  30  60  3d  58  07  1d  1d  1d  1d  .0`.0`=0`=X.....
+000026b0:  1d  1d  68  46  47  00  00  53  02  01  04  05  09  d0  30  5e  ..hFG..S......0^
+000026c0:  61  2c  6c  68  61  47  00  00  54  01  01  05  06  06  d0  30  a,lhaG..T......0
+000026d0:  d0  49  00  47  00  00  55  02  01  01  04  13  d0  30  5d  79  .I.G..U......0]y
+000026e0:  60  09  30  60  48  30  60  48  58  08  1d  1d  68  47  47  00  `.0`H0`HX...hGG.
+000026f0:  00  56  01  01  05  06  03  d0  30  47  00  00  57  01  01  06  .V......0G..W...
+00002700:  07  06  d0  30  d0  49  00  47  00  00  58  02  01  01  05  17  ...0.I.G..X.....
+00002710:  d0  30  5d  7a  60  09  30  60  48  30  60  47  30  60  47  58  .0]z`.0`H0`G0`GX
+00002720:  09  1d  1d  1d  68  49  47  00  00  59  01  01  08  09  03  d0  ....hIG..Y......
+00002730:  30  47  00  00  5a  01  01  09  0a  06  d0  30  d0  49  00  47  0G..Z......0.I.G
+00002740:  00  00  5b  02  01  01  08  23  d0  30  5d  7b  60  09  30  60  ..[....#.0]{`.0`
+00002750:  67  30  60  04  30  60  15  30  60  14  30  60  3d  30  60  3d  g0`.0`.0`.0`=0`=
+00002760:  58  0a  1d  1d  1d  1d  1d  1d  68  4a  47  00  00  5c  01  01  X.......hJG..\..
+00002770:  05  06  03  d0  30  47  00  00  5d  01  01  06  07  06  d0  30  ....0G..]......0
+00002780:  d0  49  00  47  00  00  5e  02  01  01  05  17  d0  30  5d  7c  .I.G..^......0]|
+00002790:  60  09  30  60  48  30  60  47  30  60  47  58  0b  1d  1d  1d  `.0`H0`G0`GX....
+000027a0:  68  4b  47  00  00  5f  01  01  05  06  03  d0  30  47  00  00  hKG.._......0G..
+000027b0:  60  01  01  06  07  06  d0  30  d0  49  00  47  00  00  61  02  `......0.I.G..a.
+000027c0:  01  01  05  17  d0  30  5d  7d  60  09  30  60  48  30  60  47  .....0]}`.0`H0`G
+000027d0:  30  60  47  58  0c  1d  1d  1d  68  4c  47  00  00  62  01  01  0`GX....hLG..b..
+000027e0:  08  09  03  d0  30  47  00  00  63  01  01  09  0a  06  d0  30  ....0G..c......0
+000027f0:  d0  49  00  47  00  00  64  02  01  01  08  23  d0  30  5d  7e  .I.G..d....#.0]~
+00002800:  60  09  30  60  67  30  60  04  30  60  15  30  60  14  30  60  `.0`g0`.0`.0`.0`
+00002810:  3d  30  60  3d  58  0d  1d  1d  1d  1d  1d  1d  68  4d  47  00  =0`=X.......hMG.
+00002820:  00  65  01  01  05  06  03  d0  30  47  00  00  66  01  01  06  .e......0G..f...
+00002830:  07  06  d0  30  d0  49  00  47  00  00  67  02  01  01  05  17  ...0.I.G..g.....
+00002840:  d0  30  5d  7f  60  09  30  60  48  30  60  47  30  60  47  58  .0].`.0`H0`G0`GX
+00002850:  0e  1d  1d  1d  68  4e  47  00  00  68  01  01  05  06  03  d0  ....hNG..h......
+00002860:  30  47  00  00  69  01  01  06  07  06  d0  30  d0  49  00  47  0G..i......0.I.G
+00002870:  00  00  6a  02  01  01  05  18  d0  30  5d  80  01  60  09  30  ..j......0]..`.0
+00002880:  60  48  30  60  47  30  60  47  58  0f  1d  1d  1d  68  4f  47  `H0`G0`GX....hOG
+00002890:  00  00  6b  01  01  01  02  03  d0  30  47  00  00  6c  02  01  ..k......0G..l..
+000028a0:  03  04  0f  d0  30  5e  61  2c  6c  68  61  5e  62  24  00  61  ....0^a,lha^b$.a
+000028b0:  62  47  00  00  6d  04  07  03  04  6c  d0  30  d1  11  02  00  bG..m....l.0....
+000028c0:  00  20  48  5d  81  01  d1  46  81  01  01  85  d6  d2  2c  7a  . H]...F......,z
+000028d0:  46  82  01  01  73  d7  d3  24  ff  13  0b  00  00  d2  d3  24  F...s..$.......$
+000028e0:  02  a0  46  83  01  01  85  d6  d2  d2  66  84  01  93  46  85  ..F.......f...F.
+000028f0:  01  01  73  2a  63  04  24  30  b0  2a  12  06  00  00  29  62  ..s*c.$0.*....)b
+00002900:  04  24  39  ae  12  06  00  00  d2  2c  80  01  a0  d6  d2  5d  .$9......,.....]
+00002910:  62  2a  63  05  66  62  2a  c0  63  06  62  05  62  06  61  62  b*c.fb*.c.b.b.ab
+00002920:  08  06  08  05  a0  48  00  00  6e  04  06  03  04  9e  01  d0  .....H..n.......
+00002930:  30  20  85  d6  20  85  63  04  20  80  0b  63  05  d1  80  04  0 .. .c. ..c....
+00002940:  d7  10  80  00  00  09  d3  66  86  01  82  76  2a  12  07  00  .......f...v*...
+00002950:  00  29  d3  66  87  01  82  76  2a  12  0a  00  00  29  d3  66  .).f...v*....).f
+00002960:  86  01  d3  66  87  01  ab  12  04  00  00  10  5c  00  00  d3  ...f........\...
+00002970:  66  69  85  63  04  d3  60  10  b3  12  28  00  00  5d  10  d3  fi.c..`...(..]..
+00002980:  46  10  01  66  51  80  0b  2a  63  05  12  17  00  00  62  04  F..fQ..*c.....b.
+00002990:  2c  81  01  62  05  2c  82  01  46  88  01  01  a0  2c  84  01  ,..b.,..F....,..
+000029a0:  a0  a0  85  63  04  d2  20  ab  12  07  00  00  62  04  85  10  ...c.. .....b...
+000029b0:  09  00  00  62  04  2c  85  01  a0  d2  a0  85  85  d6  d3  66  ...b.,.........f
+000029c0:  86  01  80  04  d7  d3  20  14  7a  ff  ff  d2  48  00  00  6f  ...... .z...H..o
+000029d0:  01  01  04  05  06  d0  30  d0  49  00  47  00  00  70  02  01  ......0.I.G..p..
+000029e0:  01  03  10  d0  30  5d  89  01  60  09  30  60  09  58  10  1d  ....0]..`.0`.X..
+000029f0:  68  50  47  00  00  71  00  01  03  03  01  47  00  00  7b  02  hPG..q.....G..{.
+00002a00:  01  01  02  0b  d0  30  5d  8a  01  20  58  11  68  10  47  00  .....0].. X.h.G.
+00002a10:  00  3f  13  3e  01  00  00  0b  00  01  00  77  6f  6e  6b  61  .?.&gt;.......wonka
+00002a20:  66  6c  6f  6f  72  5f  77  6f  6e  6b  61  66  6c  6f  6f  72  floor_wonkafloor
+00002a30:  5f  36  34  5f  61  5f  30  5f  30  00  02  00  77  6f  6e  6b  _64_a_0_0...wonk
+00002a40:  61  66  6c  6f  6f  72  5f  77  6f  6e  6b  61  66  6c  6f  6f  afloor_wonkafloo
+00002a50:  72  5f  36  34  5f  61  5f  30  5f  31  00  03  00  77  6f  6e  r_64_a_0_1...won
+00002a60:  6b  61  66  6c  6f  6f  72  5f  77  6f  6e  6b  61  66  6c  6f  kafloor_wonkaflo
+00002a70:  6f  72  5f  33  32  5f  61  5f  30  5f  30  00  04  00  77  6f  or_32_a_0_0...wo
+00002a80:  6e  6b  61  66  6c  6f  6f  72  5f  77  6f  6e  6b  61  66  6c  nkafloor_wonkafl
+00002a90:  6f  6f  72  5f  6c  6f  67  69  63  00  05  00  77  6f  6e  6b  oor_logic...wonk
+00002aa0:  61  66  6c  6f  6f  72  5f  77  6f  6e  6b  61  66  6c  6f  6f  afloor_wonkafloo
+00002ab0:  72  5f  33  32  5f  61  5f  30  5f  31  00  07  00  77  6f  6e  r_32_a_0_1...won
+00002ac0:  6b  61  66  6c  6f  6f  72  5f  77  6f  6e  6b  61  66  6c  6f  kafloor_wonkaflo
+00002ad0:  6f  72  5f  76  69  73  75  61  6c  69  7a  61  74  69  6f  6e  or_visualization
+00002ae0:  00  06  00  77  6f  6e  6b  61  66  6c  6f  6f  72  5f  69  6e  ...wonkafloor_in
+00002af0:  64  65  78  00  08  00  77  6f  6e  6b  61  66  6c  6f  6f  72  dex...wonkafloor
+00002b00:  5f  77  6f  6e  6b  61  66  6c  6f  6f  72  5f  69  63  6f  6e  _wonkafloor_icon
+00002b10:  5f  61  00  09  00  77  6f  6e  6b  61  66  6c  6f  6f  72  5f  _a...wonkafloor_
+00002b20:  6d  61  6e  69  66  65  73  74  00  0a  00  77  6f  6e  6b  61  manifest...wonka
+00002b30:  66  6c  6f  6f  72  5f  77  6f  6e  6b  61  66  6c  6f  6f  72  floor_wonkafloor
+00002b40:  5f  61  73  73  65  74  73  00  00  00  77  6f  6e  6b  61  66  _assets...wonkaf
+00002b50:  6c  6f  6f  72  00  40  00  00  00                              loor.@...
+</pre><hr><pre></pre></table></body></html>
