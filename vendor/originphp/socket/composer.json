@@ -1,0 +1,38 @@
+{
+    "name": "originphp/socket",
+    "description": "OriginPHP Socket",
+    "type": "library",
+    "keywords": [
+        "originphp",
+        "socket",
+        "socket",
+        "ssl",
+        "tls",
+        "stream"
+    ],
+    "homepage": "https://www.originphp.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jamiel Sharief",
+            "email": "js@originphp.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Origin\\Socket\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Origin\\Test\\Socket\\": "tests/"
+        }
+    },
+    "require": {
+        "php": ">=7.3.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0",
+        "phpstan/phpstan": "^0.12.64"
+    }
+}

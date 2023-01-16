@@ -1,0 +1,22 @@
+build:
+    environment:
+        mysql: 5.7
+        php:
+            version: "7.2"
+    dependencies:
+        before:
+            - mysql -uroot -e 'CREATE DATABASE IF NOT EXISTS test;'
+            - mysql -uroot test < ./tests/db_mysql.sql
+            - mysql -uroot test < ./tests/db_values.sql
+    tests:
+        override:
+            -
+                command: './vendor/bin/phpunit --coverage-clover=coverage.clover'
+                coverage:
+                    file: 'coverage.clover'
+                    format: 'clover'
+checks:
+    php:
+        code_rating: true
+        duplication: true
+
