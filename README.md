@@ -1,5 +1,9 @@
 # arcturus-cosmic-pack
 
+/Pack en amélioration + mise a jour/
+
+/(tuto en cour de builde)/
+
 
 Pack cosmic cms arcturus FR  avec SQL fix 
 
@@ -11,9 +15,8 @@ les swf son converti et date de 2019 by habboworld
 
 le cms et cosmic by raizer 
 
-la convertion et by moi 
 
-voici le lien avec tout dedan : 
+voici le lien mega avec le pack complet : 
 
 https://mega.nz/folder/1GkljDbY#gwFdFipydlzx2c64AeSw2A
 
@@ -28,8 +31,6 @@ wattsans#1991
 lien du xampp : 
 
 https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.0.25/xampp-windows-x64-8.0.25-0-VS16-installer.exe/download
-
-
 
 lien de composer : 
 
