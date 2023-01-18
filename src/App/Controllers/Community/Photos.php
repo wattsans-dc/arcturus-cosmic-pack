@@ -50,8 +50,6 @@ class Photos
         foreach($photos as $photo) {
             $user = Player::getDataById($photo->user_id, array('username','look'));
 
-            $photo->author =  $user->username;
-            $photo->figure =  $user->look;
 
             $photo->likes = Community::getPhotosLikes($photo->id);
         }
