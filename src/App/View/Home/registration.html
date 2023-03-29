@@ -193,7 +193,7 @@
                                 <div class="avatars-preload">
                                     {% for key,gender in looks %}
                                       {% for number,look in gender %}
-                                          <img class="{{key}}-avatar{{number}} pixelated" data-look="{{look}}" src="https://cdn.leet.ws/imaging/avatarimage?figure={{look}}&amp;direction=3&amp;size=l" alt="Preload avatar M1">
+                                          <img class="{{key}}-avatar{{number}} pixelated" data-look="{{look}}" src="{{site.fpath}}?figure={{look}}&amp;direction=3&amp;size=l" alt="Preload avatar M1">
                                           {{key}}
                                       {% endfor %}
                                     {% endfor %}
