@@ -24,7 +24,7 @@ class Config
     const site = [
       "domain"      => "yabbow.tk",
       "cpath"       => "https://yabbow.tk/assets",
-      "fpath"       => "https://cdn.leet.ws/imaging/avatarimage",
+      "fpath"       => "https://imager.fresh-hotel.org/",
       "shortname"   => "Yabbow",
       "sitename"    => "Yabbow"
     ];
